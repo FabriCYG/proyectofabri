@@ -1,0 +1,11 @@
+.parallax {
+    background-image: url("https://geekflare.com/wp-content/uploads/2021/09/520401-pure-black-background-wallpaper.jpg");
+   
+    min-height: 500px;
+    height: 3px;
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
