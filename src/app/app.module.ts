@@ -9,6 +9,8 @@ import { CadenasDeComidaComponent } from './cadenas-de-comida/cadenas-de-comida.
 import { HomeComponent } from './home/home.component';
 import { AngularFireModule } from "@angular/fire/compat"
 import { environment } from 'src/environments/environment';
+import {ButtonModule} from 'primeng/button';
+import {CarouselModule} from 'primeng/carousel'
 
 @NgModule({
   declarations: [
@@ -22,6 +24,8 @@ import { environment } from 'src/environments/environment';
   imports: [
     BrowserModule,
     AppRoutingModule,
+    ButtonModule,
+    CarouselModule,
     AngularFireModule.initializeApp(environment.firebaseConfig)
   ],
   providers: [],

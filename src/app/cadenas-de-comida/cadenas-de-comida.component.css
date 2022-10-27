@@ -1,0 +1,33 @@
+.parallax {
+    background-image: url("https://c.wallhere.com/photos/2b/ab/mcdonalds_logo_fast_food_chain-687417.jpg!d");
+   
+    min-height: 500px;
+    height: 3px;
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+  }
+  .parallax2 {
+    background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/e0529343216021.57e802b7c5f3c.png");
+    
+    min-height: 500px;
+    height: 3px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax3 {
+    background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/disp/5ea7298839539.560c656d1a01f.png");
+    
+    min-height: 500px;
+    height: 3px;
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
