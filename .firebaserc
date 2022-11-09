@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fabri-proyecto": {
+      "hosting": {
+        "fabri_proyecto": [
+          "fabri-proyecto"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fabri-proyecto"
+  }
+}
